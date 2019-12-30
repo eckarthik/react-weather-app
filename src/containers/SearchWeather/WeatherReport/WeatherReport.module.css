@@ -1,0 +1,9 @@
+.WeatherReport {
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, .2);
+    opacity: 0.9;
+}
+.DataColumn {
+    padding:0;
+    border-radius:0;
+    margin-bottom:10px;
+}

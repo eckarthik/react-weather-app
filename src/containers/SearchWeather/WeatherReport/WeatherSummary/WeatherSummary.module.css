@@ -1,0 +1,15 @@
+.WeatherIcon {
+    font-size:70px;
+    color:purple;
+    text-align: center;
+}
+.CityName {
+    color:blue;
+    font-size: 20px;
+    text-align: center;
+}
+.Card {
+    border:0px;
+    border-right:1px solid rgba(0,0,0,.125);
+    border-radius:0
+}
